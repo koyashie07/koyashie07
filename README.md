@@ -2,10 +2,11 @@ About me!
 ==========
 
 - 👋 Hi, I’m @koyashie07
-- 👀 I’m interested in Game Development, Websites and how the internet work...
-- 🌱 I’m currently learning C++...
-- 💞️ I’m looking to collaborate on Discord Bots...
-- 📫 How to reach me on discord: koyashie07#6908...
+- 👀 I’m interested in Game Development, Websites and how the internet works...
+- 🌱 Just practicing Python and C++...
+- 💞️ I’m looking to collaborate on anything interesting...
+- 📫 How to reach me on discord: koyashie#6908...
+- 💬 Ask me about anything!
 
 
 ### MY GOALS ###
@@ -13,6 +14,10 @@ About me!
  - Hope to get better at the languages I already know
  - Hope to learn new languages
  - Collaborate on or make some cool projects
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 koyashie07/koyashie07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
