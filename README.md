@@ -16,7 +16,7 @@ About me!
  - Collaborate on or make some cool projects
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
