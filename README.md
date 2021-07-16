@@ -23,6 +23,9 @@ About me!
 
 
 
+#### DiscordSuperUtils ####
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koyashie07&repo=discord-super-utils)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 koyashie07/koyashie07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
