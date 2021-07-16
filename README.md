@@ -21,7 +21,7 @@ No I dont do much web development. I just have the most code on that repo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight&show_icons=true)
 
 
 <!---
