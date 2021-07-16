@@ -8,6 +8,8 @@ About me!
 - 📫 How to reach me on discord: koyashie#6908...
 - 💬 Ask me about anything!
 
+No I dont do much web development. I just have the most code on that repo
+
 
 ### MY GOALS ###
 
