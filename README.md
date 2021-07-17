@@ -8,7 +8,7 @@ About me!
 - 📫 How to reach me on discord: koyashie#6908...
 - 💬 Ask me about anything!
 
-No I dont do much web development. I just have the most code on that repo
+
 
 
 ### MY GOALS ###
@@ -24,7 +24,8 @@ No I dont do much web development. I just have the most code on that repo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)
 
 
-
+<br/><br/>
+<br/><br/>
 
 <p align="left">
 <a href="https://instagram.com/yoshiiee._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoshiiee._" height="30" width="40" /></a>
