@@ -16,11 +16,6 @@ About me!
  - Hope to learn new languages
  - Collaborate on or make some cool projects
 
-
-<br/><br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koyashie07&label=Profile%20views&color=0e75b6&style=flat" alt="koyashie07" /> </p>
-
 <br/><br/>
 
 <h3 align="left">Connect with me:</h3>
