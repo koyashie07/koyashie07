@@ -7,7 +7,7 @@ About me!
 - 💞️ I’m looking to collaborate on anything interesting...
 - 💬 Ask me about anything!
 
-Co-Owner of @discordsuperutils
+Co-Owner of https://github.com/discordsuperutils
 
 
 ### MY GOALS ###
