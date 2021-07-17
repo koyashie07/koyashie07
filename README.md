@@ -27,4 +27,4 @@ About me!
 <p align="left">
 <a href="https://instagram.com/yoshiiee._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoshiiee._" height="30" width="40" /></a>
 </p> 
-[![discord](https://discord-md-badge.vercel.app/api/shield/759572246359441409)]
+<img src="https://discord-md-badge.vercel.app/api/shield/759572246359441409"/>
