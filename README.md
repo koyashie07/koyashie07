@@ -19,7 +19,8 @@ About me!
 
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyashie07&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)
 <br/><br/>
 
 <h3 align="left">Connect with me:</h3>
