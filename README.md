@@ -7,7 +7,7 @@ About me!
 - 💞️ I’m looking to collaborate on anything interesting...
 - 💬 Ask me about anything!
 
-Co-Owner of [![discordsuperutils - koyashie07](https://img.shields.io/static/v1?label=discordsuperutils&message=koyashie07&color=blue&logo=github)](https://github.com/discordsuperutils/koyashie07)
+Co-Owner of   [![discordsuperutils - koyashie07](https://img.shields.io/static/v1?label=discordsuperutils&message=koyashie07&color=blue&logo=github)](https://github.com/discordsuperutils/discord-super-utils)
 
 
 ### MY GOALS ###
