@@ -6,7 +6,7 @@ About me!
 - 🌱 Just practicing Python and C++...
 - 💞️ I’m looking to collaborate on anything interesting...
 - 💬 Ask me about anything!
-- Co-Head dev @discordsuperutils
+- Co-Head dev @discordsuperutils(https://github.com/discordsuperutils)
 
 
 ### MY GOALS ###
