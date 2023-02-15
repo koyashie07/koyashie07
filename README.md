@@ -1,12 +1,12 @@
 About me!
 ==========
 
-- 👋 Hi, I’m Yash and I'm 15
+- 👋 Hi, I’m Yash and I'm 16
 - 👀 I’m interested in Game Development, Websites and how the internet works...
 - 🌱 Just practicing Python and C++...
 - 💞️ I’m looking to collaborate on anything interesting...
 - 💬 Ask me about anything!
-- Co-Head dev [@discordsuperutils](https://github.com/discordsuperutils)
+// - Co-Head dev [@discordsuperutils](https://github.com/discordsuperutils)
 
 
 ### MY GOALS ###
