@@ -22,4 +22,4 @@ About me!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyashie07&layout=compact&theme=tokyonight)
 <br/><br/>
 
-#####  Reach me on Discord: koyashie#0001 #####
+
